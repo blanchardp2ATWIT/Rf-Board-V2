@@ -1,4 +1,4 @@
-21757381397573786
+21774360298674640
 32 MHz Clock
 XTAL_ASTX-13-D-32.000MHz-I05-T
 
@@ -8,6 +8,13 @@ XTAL_ASTX-13-D-32.000MHz-I05-T
 4
 0603 Footprint
 RESC1608X55N
+
+
+0
+2
+2
+0603 LED
+LEDC1608X35N
 
 
 0
@@ -64574,6 +64581,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PTC FUSE
+0ZCJ_BEL
+
+0ZCJ0025AF2E 
+0
+2
+2
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -84783,6 +84797,27 @@ SON50P200X200X80-9N
 0
 11
 11
+TVS Diode
+SOD962-2_DSN0603-2_NEX
+
+PESD3V3Y1BSFYL 
+0
+2
+2
+TVS Diode
+SOD962-2_DSN0603-2_NEX-L
+
+PESD3V3Y1BSFYL 
+0
+2
+2
+TVS Diode
+SOD962-2_DSN0603-2_NEX-M
+
+PESD3V3Y1BSFYL 
+0
+2
+2
 TXCO
 OSC_ECS-TXO-2520-33-400-AN-TR
 
@@ -90394,6 +90429,41 @@ Varistor
 RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
 Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet
 varistor
+0
+2
+2
+bga420
+SOT343
+SOT343
+Integrated Circuit
+0
+4
+4
+skya21001
+SOT65P220X110-6N
+SC-70_1
+Integrated Circuit
+0
+6
+6
+sma
+518144002
+5-1814400-2-1
+Connector
+0
+5
+5
+terminal block
+PHOENIX_1935776
+
+
+0
+2
+2
+varicaps
+CAPV_JR100
+
+
 0
 2
 2
